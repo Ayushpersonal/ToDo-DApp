@@ -2,7 +2,7 @@
 
 A decentralized per-user task manager built in Solidity.
 
-## Features
+## Features .
 
 - Add tasks
 - Toggle completion status
